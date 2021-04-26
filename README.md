@@ -30,7 +30,8 @@ Code snippets go here
 
 # FUTURE CONSIDERATIONS
 
-Add a timer so each question is timed (not sure if we have learned how to do this).
+1. Show which answers were correct and incorrect at end and show the correct answers for any wrong submissions.
+2. Add a timer so each question is timed (not sure if we have learned how to do this).
 
 
 # PROCESS WORK
