@@ -1,10 +1,14 @@
-# Title of Game
+# TEST YOUR KNOWLEDGE - SEI-412
 
-Explanation of the game that was built and the deployed link will go here.
+See who's learning more in class. You, or your classmates?!
+
+Link: (post link here)
 
 # HOW TO PLAY
 
-How to play the game goes here
+1. Click the "START" button and begin your head-to-head game with a classmate to see who remembers more.
+2. Each player should select an answer from the multiple choice menu, then hit submit to go to the next question. 
+3. After question 10, hit the "FINISH" button to see your scores.
 
 ## Start Up Screen:
 Images of the start up screen go here 
@@ -26,7 +30,7 @@ Code snippets go here
 
 # FUTURE CONSIDERATIONS
 
-Future considerations or stretch goals go here.
+Add a timer so each question is timed (not sure if we have learned how to do this).
 
 
 # PROCESS WORK
