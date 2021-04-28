@@ -10,9 +10,9 @@
 - [x] What did you achieve yesterday?
 - [x] What are your goals for today?
 - [x] Do you have any blockers?
-1. RESPONSE
-2. RESPONSE
-3. RESPONSE
+1. I worked through old deliverables and got help from pod leader with functions.
+2. Gain full understanding of functions, and finish html and start javascript for project code.
+3. Functions!
 
 # Tuesday
 - [x] What did you achieve yesterday?
