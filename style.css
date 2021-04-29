@@ -1,0 +1,40 @@
+header {
+    text-align: center;
+    /* background: url(<a href="https://imgur.com/6CgxW7N"><img src="https://i.imgur.com/6CgxW7Nh.jpg" title="source: imgur.com" /></a>);
+    background-size: cover; */
+    color: green;
+  }
+  a {
+    color: black;
+  }
+  h1 {
+    font-size: 100px;
+  }
+  img {
+    margin: 10px 0px 0px 0px;
+    border: 7px solid black;
+    border-radius: 40px;
+  }
+  ul {
+    padding: 10px;
+    background: rgba(0,0,0,0.5);
+  }
+  li {
+    display: inline-block;
+    padding: 0px 10px 0px 10px;
+  }
+  article {
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+  }
+  @media (max-width: 500px) {
+    h1 {
+      font-size: 36px;
+      padding: 5px;
+    }
+    li {
+      padding: 5px;
+      display: block;
+    }
+  }
